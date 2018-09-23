@@ -1,0 +1,18 @@
+Avengers,A superhero team involving a god.,1
+Superman,An alien from planet Krypton.,1
+Antman,This guy shrinks due to science.,1
+Captain America,An Avenger created by genetic mutation.,1
+Ironman,He is very rich.,1
+Wolverine,His bones are reinforced with metal.,1
+Trumpet,High pitched brass instrument,2
+Percussion,This instrument section is in every type of band.,2
+Saxophone,A jazz instrument,2
+Clarinet,A soprano reed instrument,2
+Flute,A soprano instrument that is played horizontally,2
+Tuba,Big bass instrument,2
+Soccer,Also known as football,3
+Tennis,A sport played with a racket,3
+Basketball,Played with hoops,3
+Lacrosse,Canada's national sport,3
+Water polo,Team sport involving water,3
+Baseball,Played with bases,3
